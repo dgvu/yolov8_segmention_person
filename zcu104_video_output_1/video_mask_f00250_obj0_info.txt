@@ -1,0 +1,9 @@
+frame_id=250
+class_id=0
+score=0.264188
+box_x=0
+box_y=107
+box_w=81
+box_h=323
+mask_w=768
+mask_h=432

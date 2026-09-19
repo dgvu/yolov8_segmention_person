@@ -1,0 +1,8 @@
+class_id=0
+score=0.809811
+box_x=740
+box_y=42
+box_w=415
+box_h=676
+mask_w=1280
+mask_h=720
